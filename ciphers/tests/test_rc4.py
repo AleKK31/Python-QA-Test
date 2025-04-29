@@ -1,5 +1,4 @@
 # PR - Add rc4 cipher #12687 
-# python3 -m ciphers.tests.test_rc4
 
 import unittest
 from ciphers.rc4 import ksa, prga, rc4
